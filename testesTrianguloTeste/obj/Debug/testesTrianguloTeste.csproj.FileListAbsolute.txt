@@ -1,0 +1,15 @@
+C:\Users\rafae\Documents\Visual Studio 2017\Projects\TestesTriangulo\testesTrianguloTeste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\rafae\Documents\Visual Studio 2017\Projects\TestesTriangulo\testesTrianguloTeste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\rafae\Documents\Visual Studio 2017\Projects\TestesTriangulo\testesTrianguloTeste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\rafae\Documents\Visual Studio 2017\Projects\TestesTriangulo\testesTrianguloTeste\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\rafae\Documents\Visual Studio 2017\Projects\TestesTriangulo\testesTrianguloTeste\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\rafae\Documents\Visual Studio 2017\Projects\TestesTriangulo\testesTrianguloTeste\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\rafae\Documents\Visual Studio 2017\Projects\TestesTriangulo\testesTrianguloTeste\bin\Debug\testesTrianguloTeste.dll
+C:\Users\rafae\Documents\Visual Studio 2017\Projects\TestesTriangulo\testesTrianguloTeste\bin\Debug\testesTrianguloTeste.pdb
+C:\Users\rafae\Documents\Visual Studio 2017\Projects\TestesTriangulo\testesTrianguloTeste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\rafae\Documents\Visual Studio 2017\Projects\TestesTriangulo\testesTrianguloTeste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\rafae\Documents\Visual Studio 2017\Projects\TestesTriangulo\testesTrianguloTeste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\rafae\Documents\Visual Studio 2017\Projects\TestesTriangulo\testesTrianguloTeste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\rafae\Documents\Visual Studio 2017\Projects\TestesTriangulo\testesTrianguloTeste\obj\Debug\testesTrianguloTeste.csprojResolveAssemblyReference.cache
+C:\Users\rafae\Documents\Visual Studio 2017\Projects\TestesTriangulo\testesTrianguloTeste\obj\Debug\testesTrianguloTeste.dll
+C:\Users\rafae\Documents\Visual Studio 2017\Projects\TestesTriangulo\testesTrianguloTeste\obj\Debug\testesTrianguloTeste.pdb
